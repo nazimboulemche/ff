@@ -1,0 +1,12 @@
+{
+  "name": "UPACK",
+  "displayName": "UPACK",
+  "expo": {
+    "name": "UPACK",
+    "slug": "UPACK",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
